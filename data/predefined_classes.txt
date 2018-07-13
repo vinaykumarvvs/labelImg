@@ -2,7 +2,10 @@ closebutton
 loginbutton
 logo
 signupbutton
-button link inputfield backbutton
+button 
+link
+ inputfield 
+backbutton
 forgotpassword
 label
 nextbutton
@@ -14,7 +17,6 @@ menu
 title
 image
 profileicon
-backbutton
 logoutbutton
 searcbutton
 tabs
